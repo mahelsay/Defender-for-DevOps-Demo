@@ -1,6 +1,6 @@
 ﻿$AppId       = "c8133ef8-8bdc-4234-96e7-2723eiad8c03"
 $TenantId    = "6211a3ef-ba64-4a3e-ad9e-af39498729ci"
-$AppSecret   = "l-17Q~-BgqX1cimjt3KTpQw_MV1f3g2ydfaLT"
+$AppSecret   = "l-27Q~-BgqX1cimjt3KTpQw_MV1f3g2ydfaLT"
 
 
 $resource = "https://graph.microsoft.com"
